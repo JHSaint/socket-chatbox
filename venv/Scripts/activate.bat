@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\jorda\Documents\Documents\uni\Jan 2021\Capstone\SimpleChatTest\Flask-SocketIO-Chat\venv
+set VIRTUAL_ENV=C:\Users\lenovo\Documents\GitHub\socket-chatbox\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
